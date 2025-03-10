@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is alcedd and I'm a begginer in programming, from Ukraine 🇺🇦</h2>
+<h2 align="left">Hi 👋! My name is alcedd and I'm a beginner in programming, from Ukraine 🇺🇦</h2>
 
 ###
 
@@ -32,6 +32,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alcedd/alcedd/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ###
