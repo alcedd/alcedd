@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 =======
 <div align="center">
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ0ZG9oZ2phOWp2Mnl2NXZ5NDVuOHR6eTFwMXZhc3lxa2llZWRxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aKIJdKchl9i7mMPO1v/giphy.gif"  />
