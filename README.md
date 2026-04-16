@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">My name is Illia. <br><br>- 🔭 I’m high school student<br>- 📚 I'm currently learning python, physics and math<br>- ⚡ In my free time I code and do useful stuff</p>
+<p align="left">My name is Illia. <br><br>- 🔭 I’m a high school student<br>- 📚 Currently, I'm learning c++, physics and math<br>- ⚡ In my free time I do what I love</p>
 
 ###
 
