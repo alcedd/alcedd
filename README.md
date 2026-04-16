@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ0ZG9oZ2phOWp2Mnl2NXZ5NDVuOHR6eTFwMXZhc3lxa2llZWRxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aKIJdKchl9i7mMPO1v/giphy.gif"  />
+  <img height="150" src="https://i.pinimg.com/originals/cb/94/3e/cb943e1bf75503f56543e36e5facf74a.gif"  />
 </div>
 
 ###
@@ -8,9 +8,12 @@
   <a href="http://discordapp.com/users/862405334202318858" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://www.instagram.com/alcedx_?igsh=MTd1aHV0OGhyN2hkbg==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alcedd.alcedd&"  />
 </div>
 
 ###
@@ -23,7 +26,7 @@
 
 ###
 
-<p align="left">My name is Illia. <br><br>- 🔭 I’m a high school student<br>- 📚 Currently, I'm learning c++, physics and math<br>- ⚡ In my free time I do what I love</p>
+<p align="left">I'm alced from Ukraine<br><br>- 🔭 I’m a high school student<br>- 📚 I'm currently learning graphics and low-level programming<br>- ⚡ In my free time I learn physics, math, read and code</p>
 
 ###
 
@@ -32,9 +35,15 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="opengl logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
 ###
